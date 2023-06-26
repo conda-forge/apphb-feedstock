@@ -1,11 +1,11 @@
-About apphb
-===========
+About apphb-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/apphb-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/libheartbeats/apphb-python
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/apphb-feedstock/blob/main/LICENSE.txt)
 
 Summary: Application heartbeats
 
