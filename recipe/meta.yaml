@@ -1,5 +1,5 @@
 {% set name = "apphb" %}
-{% set version = "0.1.0" %}
+{% set version = "0.1.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/apphb-{{ version }}.tar.gz
-  sha256: ed2922545b31fd76355282b0c9618129bf09d964ada05799babe65eff19b61f5
+  sha256: a064086017a79b4c90d57b3105bef5a9436098080e14324d7fdf863a43245081
 
 build:
   noarch: python
